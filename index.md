@@ -22,8 +22,8 @@ Aspiring **Cloud Security Specialist** with a strong drive to protect systems, p
 ## 🎓 Education
 
 - **Bachelor of Science in Information Technology**  
-  [Expected Graduation: 2026]  
   Focus: Cybersecurity, Cloud Systems, and Secure IT Infrastructure
+  *ongoing*
 
 ---
 
