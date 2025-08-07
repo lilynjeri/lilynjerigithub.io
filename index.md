@@ -1,6 +1,16 @@
 ---
-layout: single
-author_profile: true
+layout: splash
+title: "Lilian Njeri"
+permalink: /
+header:
+  overlay_image: /assets/Backgroung IMG  #
+  overlay_filter: 0.3
+  caption: "Cloud Security Specialist in Progress ☁️🛡️ | Cyber Warrior Training Mode On"
+  actions:
+    - label: "View My GitHub"
+      url: "https://github.com/lilynjeri"
+    - label: "Connect on LinkedIn"
+      url: "https://www.linkedin.com/in/mycreativemwangi"
 ---
 
 # Curriculum Vitae- Lilian Njeri
