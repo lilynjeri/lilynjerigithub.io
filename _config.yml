@@ -33,7 +33,7 @@ plugins:
 # Author info
 author:
   name   : "Lilian Njeri"
-  avatar : "/assets/images/profile.jpg" # Upload your image to this path
+  avatar : "/assets/images/Profilepicture" # Upload your image to this path
   bio    : "Aspiring cloud security specialist learning to secure systems, people, and data."
   links:
     - label: "LinkedIn"
