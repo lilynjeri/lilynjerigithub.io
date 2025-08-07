@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-# Lilian Njeri
+# Curriculum Vitae- Lilian Njeri
 
 Aspiring **Cloud Security Specialist** with a strong drive to protect systems, people, and data in a connected world. I'm currently building a solid foundation through hands-on labs, job simulations, and real-world case studies in cybersecurity.
 
