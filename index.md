@@ -30,10 +30,10 @@ Aspiring **Cloud Security Specialist** with a strong drive to protect systems, p
 ## 📜 Certifications  
 
 **Completed:**  
-- Google Cybersecurity Professional Certificate – Coursera  
-- Cisco Ethical Hacker  
 - Cyber Shujaa Ethical Hacker Program  
-
+- Google Cybersecurity Professional Certificate – Coursera  
+- Cisco cybersecurity essentials
+- 
 **In Progress:**  
 - CompTIA A+  
 - AWS Cloud Practitioner  
