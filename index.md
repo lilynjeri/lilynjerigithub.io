@@ -1,44 +1,68 @@
-# Lilian Njeri — Cybersecurity Enthusiast | Aspiring Cloud Security Specialist
+---
+layout: splash
+title: "Lilian Njeri"
+permalink: /
+header:
+  overlay_image: /assets/Backgroung IMG  #
+  overlay_filter: 0.3
+  caption: "Cloud Security Specialist in Progress ☁️🛡️ | Cyber Warrior Training Mode On"
+  actions:
+    - label: "View My GitHub"
+      url: "https://github.com/lilynjeri"
+    - label: "Connect on LinkedIn"
+      url: "https://www.linkedin.com/in/mycreativemwangi"
+---
 
-Welcome to my digital hub! 🚀  
+# Curriculum Vitae- Lilian Njeri
 
-I’m **Lilian Njeri**, a passionate cybersecurity learner currently pursuing a **BSc. in Information Technology (expected 2026)**. My focus is on **cloud security, penetration testing, and digital forensics**. I’ve completed the **Google Cybersecurity Certificate**, the **Cisco Introduction to Security course**, and I’m actively sharpening my skills through the **Cisco Cybershujaa program**.  
-
-Here you’ll find my **projects, certifications, and reflections** as I grow into a security professional.
+Aspiring **Cloud Security Specialist** with a strong drive to protect systems, people, and data in a connected world. I'm currently building a solid foundation through hands-on labs, job simulations, and real-world case studies in cybersecurity.
 
 ---
 
-## 🔐 About Me
-- 🎓 **Education**: BSc. Information Technology (Graduating 2026)  
-- 🛡️ **Certifications**: Google Cybersecurity Certificate, Cisco Introduction to Security  
-- ☁️ **Career Goal**: Cloud Security Specialist  
-- 💻 **Interests**: Penetration Testing | Threat Detection | Cloud Infrastructure Security  
+## 🎓 Education
+
+- **Bachelor of Science in Information Technology**  
+  Focus: Cybersecurity, Cloud Systems, and Secure IT Infrastructure
+  *ongoing*
 
 ---
 
-## 📂 Projects
-- **Artist-Manager Connection Web App** — Built a platform to link artists with industry professionals, integrating security practices in design.  
-- **Cybersecurity Labs & Job Simulations** — Hands-on simulations in **incident response, network defense, and threat analysis**.  
-- **Cloud Security Exploration** — Projects on **AWS** and **Azure**, securing infrastructure and monitoring vulnerabilities.  
+## 📜 Certifications
 
-*(More coming soon as I keep building!)*
-
----
-
-## 📝 Cybersecurity Blog
-I’m starting a blog where I’ll share thoughts, breakdowns, and learning notes on all things **cybersecurity**—from practical lab work to trends shaping the industry.  
-
-Stay tuned as I document my journey, lessons, and insights here.  
-
-👉 [Read my blog posts](./blog)  
+- **Google Cybersecurity Certificate** – Coursera  
+- **Cisco Introduction to Cybersecurity**  
+- **Cisco Cyber Shujaa Program** – *Ongoing*
 
 ---
 
-## 📫 Let’s Connect
-- 📧 Email: [liiann.mwangi@gmail.com](mailto:liiann.mwangi@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/mycreativemwangi](https://www.linkedin.com/in/mycreativemwangi)  
-- 💻 GitHub: [github.com/lilynjeri](https://github.com/lilynjeri)  
+## 🧠 Currently Learning & Practicing
+
+- Cybersecurity investigations and threat analysis basics  
+- Penetration testing
+- Security awareness and human-centric defense strategies  
+- Cloud security concepts and misconfiguration case studies  
+- Risk identification and policy writing simulations  
 
 ---
 
-✨ This site is both my **portfolio** and my **learning journal**. Watch it grow as I do.  
+## 💻 Projects & Labs
+
+**Cybersecurity Job Simulations**  
+Participated in simulations from platforms like Forage, Coursera Labs, and TryHackMe, including:
+- Penetration testing labs  
+- SOC analyst tasks and incident response  
+- Risk assessment exercises and policy drafting  
+- Phishing attack simulations and reporting
+
+---
+
+## 🌐 Online Presence
+
+- **GitHub**: [lilynjeri](https://github.com/lilynjeri)  
+- **LinkedIn**: [mycreativemwangi](https://www.linkedin.com/in/mycreativemwangi)  
+- **Email**: liiann.mwangi@gmail.com  
+
+---
+
+> Securing the future one system at a time.  
+[Back to Home](/)
